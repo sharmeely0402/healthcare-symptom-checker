@@ -1,0 +1,271 @@
+2025-10-14 03:14:39,172 INFO root Database initialized successfully
+2025-10-14 03:14:39,212 WARNING werkzeug  * Debugger is active!
+2025-10-14 03:14:39,215 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 03:14:57,319 INFO root Database initialized successfully
+2025-10-14 03:14:57,375 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.148.26:5000
+2025-10-14 03:14:57,375 INFO werkzeug [33mPress CTRL+C to quit[0m
+2025-10-14 03:14:57,401 INFO werkzeug  * Restarting with stat
+2025-10-14 03:14:58,145 INFO root Database initialized successfully
+2025-10-14 03:14:58,183 WARNING werkzeug  * Debugger is active!
+2025-10-14 03:14:58,185 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 03:15:57,030 ERROR root Gemini API error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-14 03:15:57,080 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:15:57] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 03:15:57,092 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:15:57] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:17:02,974 ERROR root Gemini API error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-14 03:17:02,995 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:17:02] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 03:17:03,011 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:17:03] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:18:34,730 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:18:34] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:18:35,708 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:18:35] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:18:35,913 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:18:35] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:18:36,130 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:18:36] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:25:02,589 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:25:02] "GET / HTTP/1.1" 200 -
+2025-10-14 03:25:02,647 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:25:02] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:25:19,748 ERROR root Gemini API error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-14 03:25:19,800 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:25:19] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 03:25:19,814 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:25:19] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:25:41,009 INFO root Database initialized successfully
+2025-10-14 03:25:41,063 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.148.26:5000
+2025-10-14 03:25:41,064 INFO werkzeug [33mPress CTRL+C to quit[0m
+2025-10-14 03:25:41,065 INFO werkzeug  * Restarting with stat
+2025-10-14 03:25:41,820 INFO root Database initialized successfully
+2025-10-14 03:25:41,857 WARNING werkzeug  * Debugger is active!
+2025-10-14 03:25:41,860 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 03:25:50,706 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:25:50] "GET / HTTP/1.1" 200 -
+2025-10-14 03:25:50,779 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:25:50] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:25:50,919 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:25:50] "GET / HTTP/1.1" 200 -
+2025-10-14 03:25:50,953 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:25:50] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:26:03,573 ERROR root Gemini API error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-14 03:26:03,622 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:26:03] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 03:26:03,637 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:26:03] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:28:56,395 INFO werkzeug  * Detected change in 'C:\\Users\\sharm\\Documents\\heathchecker\\healthcare-symptom-checker\\app\\gemini_client.py', reloading
+2025-10-14 03:29:04,521 INFO root Database initialized successfully
+2025-10-14 03:29:04,572 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.148.26:5000
+2025-10-14 03:29:04,572 INFO werkzeug [33mPress CTRL+C to quit[0m
+2025-10-14 03:29:04,574 INFO werkzeug  * Restarting with stat
+2025-10-14 03:29:05,318 INFO root Database initialized successfully
+2025-10-14 03:29:05,356 WARNING werkzeug  * Debugger is active!
+2025-10-14 03:29:05,359 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 03:29:28,030 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:29:28] "GET / HTTP/1.1" 200 -
+2025-10-14 03:29:28,085 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:29:28] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:29:49,676 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:29:49] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 03:29:49,691 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:29:49] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:33:30,987 INFO werkzeug  * Detected change in 'C:\\Users\\sharm\\Documents\\heathchecker\\healthcare-symptom-checker\\app\\gemini_client.py', reloading
+2025-10-14 03:33:37,772 INFO root Database initialized successfully
+2025-10-14 03:33:37,824 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.148.26:5000
+2025-10-14 03:33:37,824 INFO werkzeug [33mPress CTRL+C to quit[0m
+2025-10-14 03:33:37,825 INFO werkzeug  * Restarting with stat
+2025-10-14 03:33:38,696 INFO root Database initialized successfully
+2025-10-14 03:33:38,731 WARNING werkzeug  * Debugger is active!
+2025-10-14 03:33:38,733 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 03:33:44,805 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:33:44] "GET / HTTP/1.1" 200 -
+2025-10-14 03:33:44,846 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:33:44] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:33:55,352 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:33:55] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 03:33:55,367 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:33:55] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:42:13,362 INFO root Database initialized successfully
+2025-10-14 03:42:13,422 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.148.26:5000
+2025-10-14 03:42:13,423 INFO werkzeug [33mPress CTRL+C to quit[0m
+2025-10-14 03:42:13,425 INFO werkzeug  * Restarting with stat
+2025-10-14 03:42:14,194 INFO root Database initialized successfully
+2025-10-14 03:42:14,232 WARNING werkzeug  * Debugger is active!
+2025-10-14 03:42:14,235 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 03:42:46,347 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:42:46] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 03:42:46,364 INFO werkzeug 127.0.0.1 - - [14/Oct/2025 03:42:46] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:43:13,557 INFO werkzeug  * Detected change in 'C:\\Users\\sharm\\Documents\\heathchecker\\healthcare-symptom-checker\\app\\gemini_client.py', reloading
+2025-10-14 03:43:15,703 INFO werkzeug  * Restarting with stat
+2025-10-14 03:43:16,503 INFO root Database initialized successfully
+2025-10-14 03:43:16,543 WARNING werkzeug  * Debugger is active!
+2025-10-14 03:43:16,545 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 03:43:20,417 INFO root Database initialized successfully
+2025-10-14 03:43:20,473 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.148.26:5000
+2025-10-14 03:43:20,474 INFO werkzeug [33mPress CTRL+C to quit[0m
+2025-10-14 03:43:20,476 INFO werkzeug  * Restarting with stat
+2025-10-14 03:43:21,254 INFO root Database initialized successfully
+2025-10-14 03:43:21,294 WARNING werkzeug  * Debugger is active!
+2025-10-14 03:43:21,297 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 03:43:35,333 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:43:35] "GET / HTTP/1.1" 200 -
+2025-10-14 03:43:35,591 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:43:35] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:43:35,758 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:43:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-14 03:43:47,379 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:43:47] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 03:43:47,394 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:43:47] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:44:07,245 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:44:07] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 03:44:07,260 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:44:07] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:55:10,927 WARNING google_genai._api_client Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2025-10-14 03:55:11,700 INFO root Database initialized successfully
+2025-10-14 03:55:11,775 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.148.26:5000
+2025-10-14 03:55:11,776 INFO werkzeug [33mPress CTRL+C to quit[0m
+2025-10-14 03:55:11,778 INFO werkzeug  * Restarting with stat
+2025-10-14 03:55:13,014 WARNING google_genai._api_client Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2025-10-14 03:55:13,772 INFO root Database initialized successfully
+2025-10-14 03:55:13,840 WARNING werkzeug  * Debugger is active!
+2025-10-14 03:55:13,844 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 03:55:28,464 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:55:28] "GET / HTTP/1.1" 200 -
+2025-10-14 03:55:28,524 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:55:28] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:55:30,072 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:55:30] "GET / HTTP/1.1" 200 -
+2025-10-14 03:55:30,145 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:55:30] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:55:41,074 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 03:56:00,945 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2025-10-14 03:56:00,994 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:56:00] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 03:56:01,015 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:56:01] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:56:43,107 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 03:57:01,231 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2025-10-14 03:57:01,281 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:57:01] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 03:57:01,299 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:57:01] "GET /history HTTP/1.1" 200 -
+2025-10-14 03:58:24,856 INFO werkzeug  * Detected change in 'C:\\Users\\sharm\\Documents\\heathchecker\\healthcare-symptom-checker\\app\\gemini_client.py', reloading
+2025-10-14 03:58:25,204 INFO werkzeug  * Restarting with stat
+2025-10-14 03:58:26,378 WARNING google_genai._api_client Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2025-10-14 03:58:27,128 INFO root Database initialized successfully
+2025-10-14 03:58:27,161 WARNING werkzeug  * Debugger is active!
+2025-10-14 03:58:27,163 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 03:58:31,437 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:58:31] "GET / HTTP/1.1" 200 -
+2025-10-14 03:58:31,479 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 03:58:31] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:00:04,509 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 04:00:08,451 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-10-14 04:00:08,502 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:00:08] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 04:00:08,513 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:00:08] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:02:08,959 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 04:02:13,476 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-10-14 04:02:13,522 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:02:13] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 04:02:13,529 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:02:13] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:07:51,932 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:07:51] "GET / HTTP/1.1" 200 -
+2025-10-14 04:07:52,017 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:07:52] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:08:30,338 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 04:08:34,411 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-10-14 04:08:34,461 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:08:34] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 04:08:34,482 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:08:34] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:09:04,435 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:09:04] "GET / HTTP/1.1" 200 -
+2025-10-14 04:09:04,480 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:09:04] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:33:47,737 WARNING google_genai._api_client Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2025-10-14 04:33:48,525 INFO root Database initialized successfully
+2025-10-14 04:33:48,629 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.148.26:5000
+2025-10-14 04:33:48,630 INFO werkzeug [33mPress CTRL+C to quit[0m
+2025-10-14 04:33:48,632 INFO werkzeug  * Restarting with stat
+2025-10-14 04:33:49,822 WARNING google_genai._api_client Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2025-10-14 04:33:50,540 INFO root Database initialized successfully
+2025-10-14 04:33:50,574 WARNING werkzeug  * Debugger is active!
+2025-10-14 04:33:50,576 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 04:33:54,205 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:33:54] "GET / HTTP/1.1" 200 -
+2025-10-14 04:33:54,265 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:33:54] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:34:22,932 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 04:34:27,034 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-10-14 04:34:27,085 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:34:27] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 04:34:27,100 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:34:27] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:34:54,318 INFO werkzeug  * Detected change in 'C:\\Users\\sharm\\Documents\\heathchecker\\healthcare-symptom-checker\\app\\gemini_client.py', reloading
+2025-10-14 04:34:54,544 INFO werkzeug  * Restarting with stat
+2025-10-14 04:34:55,775 WARNING google_genai._api_client Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2025-10-14 04:34:56,538 INFO root Database initialized successfully
+2025-10-14 04:34:56,575 WARNING werkzeug  * Debugger is active!
+2025-10-14 04:34:56,578 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 04:36:10,235 INFO werkzeug  * Detected change in 'C:\\Users\\sharm\\Documents\\heathchecker\\healthcare-symptom-checker\\app\\gemini_client.py', reloading
+2025-10-14 04:36:10,691 INFO werkzeug  * Restarting with stat
+2025-10-14 04:36:11,874 WARNING google_genai._api_client Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2025-10-14 04:36:12,549 INFO root Database initialized successfully
+2025-10-14 04:36:12,581 WARNING werkzeug  * Debugger is active!
+2025-10-14 04:36:12,584 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 04:36:18,322 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:36:18] "GET / HTTP/1.1" 200 -
+2025-10-14 04:36:18,362 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:36:18] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:36:51,327 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 04:36:55,101 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-10-14 04:36:55,166 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:36:55] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 04:36:55,179 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:36:55] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:42:32,735 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:42:32] "GET / HTTP/1.1" 200 -
+2025-10-14 04:42:32,785 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:42:32] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:42:49,499 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 04:42:53,308 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-10-14 04:42:53,343 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:42:53] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 04:42:53,355 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:42:53] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:49:04,481 WARNING google_genai._api_client Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2025-10-14 04:49:05,204 INFO root Database initialized successfully
+2025-10-14 04:49:05,258 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.148.26:5000
+2025-10-14 04:49:05,259 INFO werkzeug [33mPress CTRL+C to quit[0m
+2025-10-14 04:49:05,260 INFO werkzeug  * Restarting with stat
+2025-10-14 04:49:06,511 WARNING google_genai._api_client Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2025-10-14 04:49:07,254 INFO root Database initialized successfully
+2025-10-14 04:49:07,303 WARNING werkzeug  * Debugger is active!
+2025-10-14 04:49:07,307 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 04:49:17,051 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:49:17] "GET / HTTP/1.1" 200 -
+2025-10-14 04:49:17,249 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:49:17] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:50:02,073 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 04:50:05,240 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-10-14 04:50:05,307 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:50:05] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 04:50:05,323 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:50:05] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:53:23,687 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:53:23] "GET / HTTP/1.1" 200 -
+2025-10-14 04:53:23,726 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:53:23] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:53:55,269 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 04:53:59,741 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-10-14 04:53:59,815 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:53:59] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 04:53:59,850 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 04:53:59] "GET /history HTTP/1.1" 200 -
+2025-10-14 04:56:11,004 INFO werkzeug  * Detected change in 'C:\\Users\\sharm\\Documents\\heathchecker\\healthcare-symptom-checker\\app\\gemini_client.py', reloading
+2025-10-14 04:56:11,270 INFO werkzeug  * Restarting with stat
+2025-10-14 04:56:12,674 WARNING google_genai._api_client Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2025-10-14 04:56:13,428 INFO root Database initialized successfully
+2025-10-14 04:56:13,490 WARNING werkzeug  * Debugger is active!
+2025-10-14 04:56:13,493 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 21:02:25,299 WARNING google_genai._api_client Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2025-10-14 21:02:26,656 INFO root Database initialized successfully
+2025-10-14 21:02:26,741 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.148.26:5000
+2025-10-14 21:02:26,744 INFO werkzeug [33mPress CTRL+C to quit[0m
+2025-10-14 21:02:26,750 INFO werkzeug  * Restarting with stat
+2025-10-14 21:02:27,855 WARNING google_genai._api_client Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2025-10-14 21:02:28,373 INFO root Database initialized successfully
+2025-10-14 21:02:28,397 WARNING werkzeug  * Debugger is active!
+2025-10-14 21:02:28,400 INFO werkzeug  * Debugger PIN: 933-272-605
+2025-10-14 21:02:38,185 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 21:02:38] "GET / HTTP/1.1" 200 -
+2025-10-14 21:02:38,238 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 21:02:38] "GET /history HTTP/1.1" 200 -
+2025-10-14 21:03:22,669 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 21:03:27,333 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-10-14 21:03:27,397 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 21:03:27] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 21:03:27,414 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 21:03:27] "GET /history HTTP/1.1" 200 -
+2025-10-14 22:20:56,418 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 22:20:56] "GET / HTTP/1.1" 200 -
+2025-10-14 22:20:56,601 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 22:20:56] "GET /history HTTP/1.1" 200 -
+2025-10-14 22:22:11,281 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 22:22:16,155 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-10-14 22:22:16,200 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 22:22:16] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 22:22:16,218 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 22:22:16] "GET /history HTTP/1.1" 200 -
+2025-10-14 22:26:59,625 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 22:27:03,542 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-10-14 22:27:03,572 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 22:27:03] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 22:27:03,581 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 22:27:03] "GET /history HTTP/1.1" 200 -
+2025-10-14 22:27:46,606 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 22:27:51,210 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-10-14 22:27:51,237 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 22:27:51] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 22:27:51,289 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 22:27:51] "GET /history HTTP/1.1" 200 -
+2025-10-14 22:28:37,207 INFO google_genai.models AFC is enabled with max remote calls: 10.
+2025-10-14 22:28:42,716 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-10-14 22:28:42,747 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 22:28:42] "POST /check_symptoms HTTP/1.1" 200 -
+2025-10-14 22:28:42,753 INFO werkzeug 172.18.148.26 - - [14/Oct/2025 22:28:42] "GET /history HTTP/1.1" 200 -
+2025-10-14 22:42:13,903 INFO werkzeug  * Detected change in 'C:\\Users\\sharm\\Documents\\heathchecker\\healthcare-symptom-checker\\app\\routes.py', reloading
+2025-10-14 22:42:14,221 INFO werkzeug  * Restarting with stat
+2025-10-14 22:42:15,792 WARNING google_genai._api_client Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2025-10-14 22:42:16,329 INFO root Database initialized successfully
+2025-10-14 22:42:16,361 WARNING werkzeug  * Debugger is active!
+2025-10-14 22:42:16,363 INFO werkzeug  * Debugger PIN: 933-272-605
