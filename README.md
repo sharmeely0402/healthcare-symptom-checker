@@ -75,8 +75,10 @@ The **Healthcare Symptom Checker** is an educational web application that uses G
 ## 🎥 Demo
 
 ### Demo Video
-<iframe src="https://drive.google.com/file/d/1ETUsuHkuYyMeb3NT6JJfWZWrRSHpOCl2/preview" 
-        width="640" height="480" allow="autoplay"></iframe>
+
+
+[![Watch the Demo Video](https://img.shields.io/badge/🎬%20Watch-Demo%20Video-blue?style=for-the-badge)](https://drive.google.com/file/d/1ETUsuHkuYyMeb3NT6JJfWZWrRSHpOCl2/view)
+
 
 ### Sample Interaction
 **Input Symptoms:**
