@@ -74,11 +74,9 @@ The **Healthcare Symptom Checker** is an educational web application that uses G
 
 ## 🎥 Demo
 
-### Live Demo
-Access the application: `http://localhost:5000` (after installation)
-
 ### Demo Video
-[Watch the demonstration video](#) *(Link to be added)*
+<iframe src="https://drive.google.com/file/d/1ETUsuHkuYyMeb3NT6JJfWZWrRSHpOCl2/preview" 
+        width="640" height="480" allow="autoplay"></iframe>
 
 ### Sample Interaction
 **Input Symptoms:**
